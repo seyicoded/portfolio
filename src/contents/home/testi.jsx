@@ -25,7 +25,7 @@ export default function Testi() {
               </div>
             </div>
 
-            <div className="swiper-slide">
+            {/* <div className="swiper-slide">
               <div className="testimonial-box">
                 <div className="author-test">
                   <img src="DevFolio/assets/img/testimonial-4.jpg" alt="" className="rounded-circle b-shadow-a" />
@@ -38,7 +38,7 @@ export default function Testi() {
                   </p>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
           <div className="swiper-pagination"></div>
         </div>
