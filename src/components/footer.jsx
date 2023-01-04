@@ -5,14 +5,14 @@ export default function Footer() {
     <div>
         
   <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <div class="copyright-box">
-            <p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
-            <div class="credits">
+    <div className="container">
+      <div className="row">
+        <div className="col-sm-12">
+          <div className="copyright-box">
+            <p className="copyright">&copy; Copyright <strong>SeyiCoded</strong>. All Rights Reserved</p>
+            <div className="credits">
               
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              {/* Designed by Yours */}
             </div>
           </div>
         </div>
