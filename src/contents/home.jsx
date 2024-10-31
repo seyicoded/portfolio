@@ -207,13 +207,13 @@ export default function HomeContent() {
                   </p>
                   <ul className="list-ico">
                     <li><span className="bi bi-geo-alt"></span> Federal Capital Territory, Nigeria</li>
-                    <li><span className="bi bi-phone"></span> (234) 902 3112 671</li>
+                    <li><span className="bi bi-phone"></span> (234) 814 4539 649</li>
                     <li><span className="bi bi-envelope"></span> opadonuseyi01@gmail.com</li>
                   </ul>
                 </div>
                 <div className="socials">
                   <ul>
-                    <li><a href="https://wa.me/message/SACWOXXS24IXL1"><span className="ico-circle"><i className="bi bi-whatsapp"></i></span></a></li>
+                    <li><a href="https://wa.me/2348144539649"><span className="ico-circle"><i className="bi bi-whatsapp"></i></span></a></li>
                     <li><a href=""><span className="ico-circle"><i className="bi bi-medium"></i></span></a></li>
                     <li><a href="https://www.github.com/seyicoded"><span className="ico-circle"><i className="bi bi-github"></i></span></a></li>
                     <li><a href="https://www.linkedin.com/in/opadonu-seyi-9b873617b"><span className="ico-circle"><i className="bi bi-linkedin"></i></span></a></li>

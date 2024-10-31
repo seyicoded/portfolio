@@ -52,7 +52,7 @@ export default function About() {
                   </h5>
                 </div>
                 <p className="lead">
-                Hey, I am a highly competent software developer with nine (9) years’ experience developing a wide range of
+                Hey, I am a highly competent software developer with ten (10) years’ experience developing a wide range of
 tools for both Web and Android for a range of clients. I have proven expertise in building educational,
 Management and Organization apps. 
                 </p>

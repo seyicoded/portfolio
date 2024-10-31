@@ -22,13 +22,85 @@ export default function Work() {
         <div className="work-box">
           <a href="#work" data-gallery="portfolioGallery" className="portfolio-lightbox">
             <div className="work-img">
-              <img src="DevFolio/assets/img/work-1.jpg" alt="" className="img-fluid" />
+              {/* <img src="DevFolio/assets/img/work-1.jpg" alt="" className="img-fluid" /> */}
             </div>
           </a>
           <div className="work-content">
             <div className="row">
               <div className="col-sm-8">
-                <h2 className="w-title">NiishCloud</h2>
+                <h2 className="w-title">Kiub.ai</h2>
+                <div className="w-more">
+                  <span className="w-ctegory">Backend Developer</span>  <span className="w-date"></span>
+                </div>
+              </div>
+              <div className="col-sm-4">
+                <div className="w-like">
+                  {/* <a href="portfolio-details.html"> <span className="bi bi-plus-circle"></span></a> */}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="col-md-4">
+        <div className="work-box">
+          <a href="#work" data-gallery="portfolioGallery" className="portfolio-lightbox">
+            <div className="work-img">
+              {/* <img src="DevFolio/assets/img/work-1.jpg" alt="" className="img-fluid" /> */}
+            </div>
+          </a>
+          <div className="work-content">
+            <div className="row">
+              <div className="col-sm-8">
+                <h2 className="w-title">Menufinder Africa</h2>
+                <div className="w-more">
+                  <span className="w-ctegory">Backend Developer</span>  <span className="w-date"></span>
+                </div>
+              </div>
+              <div className="col-sm-4">
+                <div className="w-like">
+                  {/* <a href="portfolio-details.html"> <span className="bi bi-plus-circle"></span></a> */}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="col-md-4">
+        <div className="work-box">
+          <a href="#work" data-gallery="portfolioGallery" className="portfolio-lightbox">
+            <div className="work-img">
+              {/* <img src="DevFolio/assets/img/work-1.jpg" alt="" className="img-fluid" /> */}
+            </div>
+          </a>
+          <div className="work-content">
+            <div className="row">
+              <div className="col-sm-8">
+                <h2 className="w-title">Cashingames</h2>
+                <div className="w-more">
+                  <span className="w-ctegory">Fullstack Developer</span>  <span className="w-date"></span>
+                </div>
+              </div>
+              <div className="col-sm-4">
+                <div className="w-like">
+                  {/* <a href="portfolio-details.html"> <span className="bi bi-plus-circle"></span></a> */}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="col-md-4">
+        <div className="work-box">
+          <a href="#work" data-gallery="portfolioGallery" className="portfolio-lightbox">
+            <div className="work-img">
+              {/* <img src="DevFolio/assets/img/work-1.jpg" alt="" className="img-fluid" /> */}
+            </div>
+          </a>
+          <div className="work-content">
+            <div className="row">
+              <div className="col-sm-8">
+                <h2 className="w-title">NiishCloud | Codelab</h2>
                 <div className="w-more">
                   <span className="w-ctegory">Mobile Developer</span>  <span className="w-date"></span>
                 </div>
@@ -46,7 +118,7 @@ export default function Work() {
         <div className="work-box">
           <a href="#work" data-gallery="portfolioGallery" className="portfolio-lightbox">
             <div className="work-img">
-              <img src="DevFolio/assets/img/bwork-2.jpg" alt="" className="img-fluid" style={{  }} />
+              {/* <img src="DevFolio/assets/img/bwork-2.jpg" alt="" className="img-fluid" style={{  }} /> */}
             </div>
           </a>
           <div className="work-content">
@@ -70,7 +142,7 @@ export default function Work() {
         <div className="work-box">
           <a href="#work" data-gallery="portfolioGallery" className="portfolio-lightbox">
             <div className="work-img">
-              <img src="DevFolio/assets/img/krib.jpg" alt="" className="img-fluid" />
+              {/* <img src="DevFolio/assets/img/krib.jpg" alt="" className="img-fluid" /> */}
             </div>
           </a>
           <div className="work-content">
@@ -94,7 +166,7 @@ export default function Work() {
         <div className="work-box">
           <a href="#work" data-gallery="portfolioGallery" className="portfolio-lightbox">
             <div className="work-img">
-              <img src="DevFolio/assets/img/apptide.jpg" alt="" className="img-fluid" />
+              {/* <img src="DevFolio/assets/img/apptide.jpg" alt="" className="img-fluid" /> */}
             </div>
           </a>
           <div className="work-content">
@@ -102,7 +174,7 @@ export default function Work() {
               <div className="col-sm-8">
                 <h2 className="w-title">Apptide</h2>
                 <div className="w-more">
-                  <span className="w-ctegory">FullStack Developer -> Backend </span>  <span className="w-date"></span>
+                  <span className="w-ctegory">FullStack Developer >> Backend </span>  <span className="w-date"></span>
                 </div>
               </div>
               <div className="col-sm-4">
@@ -118,7 +190,7 @@ export default function Work() {
         <div className="work-box">
           <a href="#work" data-gallery="portfolioGallery" className="portfolio-lightbox">
             <div className="work-img">
-              <img src="DevFolio/assets/img/criset.png" alt="" className="img-fluid" />
+              {/* <img src="DevFolio/assets/img/criset.png" alt="" className="img-fluid" /> */}
             </div>
           </a>
           <div className="work-content">
@@ -142,7 +214,7 @@ export default function Work() {
         <div className="work-box">
           <a href="#work" data-gallery="portfolioGallery" className="portfolio-lightbox">
             <div className="work-img">
-              <img src="DevFolio/assets/img/clarondoc.png" alt="" className="img-fluid" />
+              {/* <img src="DevFolio/assets/img/clarondoc.png" alt="" className="img-fluid" /> */}
             </div>
           </a>
           <div className="work-content">

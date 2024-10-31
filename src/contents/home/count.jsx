@@ -23,7 +23,7 @@ export default function Count() {
             <span className="ico-circle"><i className="bi bi-journal-richtext"></i></span>
           </div>
           <div className="counter-num">
-            <p data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" className="counter purecounter">9</p>
+            <p data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" className="counter purecounter">10</p>
             <span className="counter-text">YEARS OF EXPERIENCE</span>
           </div>
         </div>
